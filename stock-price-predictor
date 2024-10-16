@@ -1,0 +1,13 @@
+stock-price-predictor/
+├── src/
+│   ├── __init__.py
+│   ├── data_fetcher.py
+│   ├── predictor.py
+│   └── main.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_fetcher.py
+│   └── test_predictor.py
+├── requirements.txt
+├── README.md
+└── .gitignore
